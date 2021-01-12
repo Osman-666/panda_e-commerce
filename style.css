@@ -16,5 +16,17 @@
 }
 .btn{
     background-image: linear-gradient(to right, #FF4C93,#FF287C);
-    border-radius: 5px;
+    border-radius: 15px;
+}
+.bg-bag{
+    background-color: #DA70D6;
+}
+.copyright{
+    height: 100px;
+    background-color:#F8F9FA;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(66, 4, 4);
+    margin-bottom: 20px;
+    display: block;
 }
