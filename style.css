@@ -1,0 +1,20 @@
+.panda-card {
+    border: 0ch;
+}
+.panda-card-footer{
+    background-color: #ffffff;
+    border-top: 0ch;
+}
+.categories img{
+    width: 100px;
+    border-radius: 30px;
+}
+.panda-slide{
+    background-color: #FCEAE8;
+    margin-top: 10%;
+    border-radius: 2%;
+}
+.btn{
+    background-image: linear-gradient(to right, #FF4C93,#FF287C);
+    border-radius: 5px;
+}
